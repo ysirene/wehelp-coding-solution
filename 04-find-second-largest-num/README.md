@@ -1,6 +1,6 @@
 ## 04.找到第二大的整數
 
-[傳送門](https://wehelp.tw/coding/problem/3)
+[傳送門](https://wehelp.tw/coding/problem/4)
 
 🟢 難易度：初級
 
@@ -25,6 +25,6 @@
 **範例三**
 
 ```
-輸入範例一：[0, 2]
+輸入範例三：[0, 2]
 回傳：0
 ```
