@@ -1,5 +1,4 @@
 def sumOfArithmeticSequence(min, max, differ):
-    result = 0
-    for i in range(min, max+1, differ):
-        result += i
+    n = (max-min) // differ + 1
+    result = (min+(min+(differ*(n-1))))*n/2
     return result
